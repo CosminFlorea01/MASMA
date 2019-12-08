@@ -1,0 +1,11 @@
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\bin\Debug\netcoreapp3.0\MASMA_Project.exe
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\bin\Debug\netcoreapp3.0\MASMA_Project.deps.json
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\bin\Debug\netcoreapp3.0\MASMA_Project.runtimeconfig.json
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\bin\Debug\netcoreapp3.0\MASMA_Project.runtimeconfig.dev.json
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\bin\Debug\netcoreapp3.0\MASMA_Project.dll
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\bin\Debug\netcoreapp3.0\MASMA_Project.pdb
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\obj\Debug\netcoreapp3.0\MASMA_Project.csprojAssemblyReference.cache
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\obj\Debug\netcoreapp3.0\MASMA_Project.AssemblyInfoInputs.cache
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\obj\Debug\netcoreapp3.0\MASMA_Project.AssemblyInfo.cs
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\obj\Debug\netcoreapp3.0\MASMA_Project.dll
+C:\Users\cosmi\Documents\GitHub\MASMA\MASMA_Project\obj\Debug\netcoreapp3.0\MASMA_Project.pdb
